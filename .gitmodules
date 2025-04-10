@@ -1,0 +1,3 @@
+[submodule "alvahmm"]
+	path = alvahmm
+	url = https://github.com/trissim/alvahmm.git
