@@ -10,3 +10,5 @@ __version__ = '0.1.0'
 from hmm_tracer.core.preprocessing import ImagePreprocessor
 from hmm_tracer.core.tracing import AxonTracer
 from hmm_tracer.core.graph import NeuriteGraph
+from hmm_tracer.cellbody.detection import CellBodyDetector
+from hmm_tracer.cellbody.connection import NeuriteConnector
